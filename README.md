@@ -9,7 +9,10 @@ Been coding for 5 years, I started my carreer as a fullstack web developer. Rece
 *   🌍  I'm based in Bourg-Argental, France
 *   ✉️  You can contact me at [contact@battin.dev](mailto:contact@battin.dev)
 *   🧠  I'm learning Flutter & Dart
-*   🤝  I'm open to collaborating on mobile dev projects preferably, but really any cool project 😎### Skills 
+*   🤝  I'm open to collaborating on mobile dev projects preferably, but really any cool project 😎
+
+### Skills
+
 <p align="left">
   <a href="https://dart.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" />
